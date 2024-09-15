@@ -1,3 +1,4 @@
+![logo](https://i.pinimg.com/originals/e8/ed/08/e8ed08071e6b599ea397bfad72f686dd.jpg)
 <h1 align="center">Hi 👋, I'm Yashovardhan Tripathi</h1>
 <h3 align="center">A passionate Machine Learner and Prompt Engineer from India</h3>
 <img align="right alt="Coding" width="500" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
