@@ -1,0 +1,71 @@
+name: Refresh profile visuals
+
+on:
+  schedule:
+    - cron: "23 1 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-visuals.yml
+      - scripts/generate-activity.mjs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate public GitHub stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&bg_color=090d0a&title_color=39ff88&text_color=d5e5da&icon_color=a3e635&border_color=1e452c&border_radius=12
+          path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate public repository language card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=090d0a&title_color=39ff88&text_color=d5e5da&border_color=1e452c&border_radius=12&card_width=467
+          path: assets/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/contribution-snake.svg?color_snake=#a3e635&color_dots=#111b14,#153c24,#207a43,#2dbb65,#39ff88
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate recent activity graph
+        run: node scripts/generate-activity.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit refreshed visuals
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/top-languages.svg assets/contribution-snake.svg assets/contribution-activity.svg
+          if git diff --cached --quiet; then
+            echo "Profile visuals are already up to date."
+            exit 0
+          fi
+          git commit -m "chore: refresh profile visuals"
+          git push

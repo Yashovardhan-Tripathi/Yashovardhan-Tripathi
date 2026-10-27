@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">Yashovardhan Tripathi — Data Scientist | AI/ML &amp; Full-Stack Developer</title>
+  <desc id="desc">A terminal green banner with a network of connected nodes, code panels, and the words Data, Intelligence, Development.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090d0a"/><stop offset="1" stop-color="#0e2116"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#39ff88" stop-opacity=".13"/><stop offset="1" stop-color="#39ff88" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#39ff88" stroke-opacity=".055"/></pattern>
+    <linearGradient id="accent"><stop stop-color="#39ff88"/><stop offset="1" stop-color="#a3e635"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="398" rx="22" fill="url(#bg)" stroke="#245535"/>
+  <rect x="1" y="1" width="1278" height="398" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1060" cy="185" rx="280" ry="220" fill="url(#glow)"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <circle cx="42" cy="31" r="5" fill="#39ff88"/>
+    <circle cx="61" cy="31" r="5" fill="#a3e635" opacity=".7"/>
+    <circle cx="80" cy="31" r="5" fill="#3b6849"/>
+    <text x="110" y="36" font-size="13" fill="#8ba996" letter-spacing="1">yashovardhan / profile</text>
+    <text x="1194" y="38" font-size="22" fill="#39ff88">&lt;/&gt;</text>
+    <path d="M24 56H1256" stroke="#245535"/>
+    <text x="56" y="112" font-size="15" fill="#a3e635" letter-spacing="2">$ whoami</text>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="52" y="180" font-size="51" font-weight="750" fill="#f0faf3" letter-spacing="-1.5">Yashovardhan <tspan fill="#39ff88">Tripathi</tspan></text>
+    <text x="56" y="224" font-size="22" font-weight="600" fill="#d5e5da">Data Scientist <tspan fill="#48825a">|</tspan> AI/ML &amp; Full-Stack Developer</text>
+  </g>
+  <rect x="56" y="258" width="42" height="4" rx="2" fill="url(#accent)"/>
+  <text x="111" y="266" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#a5c3af" letter-spacing="1">Data. Intelligence. Development.</text>
+  <g transform="translate(887 104)" fill="none" stroke="#39ff88" stroke-width="1.5">
+    <path d="M0 82L23 30L78 5L126 21L151 66L133 116L87 147L34 130ZM0 82L61 69L78 5M23 30L61 69L126 21M61 69L151 66M61 69L87 147M34 130L61 69L133 116M0 82L34 130M23 30L133 116M78 5L87 147" stroke-opacity=".6"/>
+    <path d="M133 116C193 116 165 183 241 183M151 66C203 66 192 114 241 114M126 21C192 21 184 48 223 48" stroke-opacity=".45"/>
+    <g fill="#39ff88" stroke="none">
+      <circle cy="82" r="4"/><circle cx="23" cy="30" r="4"/><circle cx="78" cy="5" r="4"/><circle cx="126" cy="21" r="4"/><circle cx="151" cy="66" r="4"/><circle cx="133" cy="116" r="4"/><circle cx="87" cy="147" r="4"/><circle cx="34" cy="130" r="4"/>
+    </g>
+    <circle cx="61" cy="69" r="6" fill="#a3e635" stroke="none"/>
+    <g transform="translate(201 2) rotate(7)">
+      <rect width="105" height="80" rx="8" fill="#0b1610" stroke="#2a6c40"/>
+      <path d="M0 17H105" stroke="#2a6c40"/>
+      <path d="M13 31H44M13 44H72M13 57H56" stroke="#39ff88" stroke-width="3"/>
+      <path d="M51 31H70M63 57H86" stroke="#a3e635" stroke-width="3"/>
+    </g>
+    <g transform="translate(224 139) rotate(-7)">
+      <rect width="90" height="65" rx="8" fill="#0b1610" stroke="#2a6c40"/>
+      <path d="M13 19H46M13 32H71M13 45H54" stroke="#39ff88" stroke-width="3"/>
+      <path d="M54 19H75" stroke="#a3e635" stroke-width="3"/>
+    </g>
+  </g>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12">
+    <rect x="56" y="314" width="154" height="28" rx="14" fill="#112c1b" stroke="#245535"/>
+    <text x="77" y="333" fill="#a3e635">AI / ML / DATA</text>
+    <rect x="224" y="314" width="180" height="28" rx="14" fill="#112c1b" stroke="#245535"/>
+    <text x="245" y="333" fill="#39ff88">FULL-STACK SYSTEMS</text>
+    <text x="1230" y="366" text-anchor="end" fill="#60876d">01 / BUILD WITH CURIOSITY</text>
+  </g>
+</svg>

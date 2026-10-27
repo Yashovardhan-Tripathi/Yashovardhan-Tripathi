@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="200" viewBox="0 0 467 200" role="img" aria-label="Public GitHub stats: awaiting first GitHub sync">
+  <rect x="1" y="1" width="465" height="198" rx="12" fill="#090d0a" stroke="#1e452c"/>
+  <g font-family="Segoe UI, Arial, sans-serif"><text x="28" y="46" fill="#39ff88" font-size="20" font-weight="600">Public GitHub stats</text>
+  <text x="28" y="94" fill="#d5e5da" font-size="16">Awaiting first GitHub sync</text>
+  <text x="28" y="124" fill="#8ba996" font-size="13">Real contribution data will appear here.</text>
+  <text x="28" y="169" fill="#a3e635" font-size="12">PENDING / NO SAMPLE DATA</text></g></svg>

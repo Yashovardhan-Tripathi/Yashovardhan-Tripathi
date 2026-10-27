@@ -1,27 +1,133 @@
-# 💫 About Me:
-🔭Currently working on: AI-powered projects, smart automation systems, and hackathon-grade products<br> 🤝Looking to collaborate on: AI/ML, NLP, full-stack apps, and impactful problem-solving ideas<br> 🤝Looking for help with: Scaling ideas, system design, and production-ready AI deployments<br> 🌱Currently learning: Advanced ML, Deep Learning, NLP, MLOps, and modern UI/UX with React<br> 💬Ask me about: AI/ML, NLP, Python, MERN stack, hackathons, and building real-world products<br> ⚡Fun fact: I love turning complex ideas into clean, working solutions🚀
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Yashovardhan Tripathi — Data Scientist | AI/ML & Full-Stack Developer" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashovardhan-tripathi-05220225a"><img src="https://img.shields.io/badge/LinkedIn-Connect-39FF88?style=for-the-badge&amp;labelColor=111B14" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:yashovardhan0001@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-A3E635?style=for-the-badge&amp;labelColor=111B14" alt="Email Yashovardhan" /></a>
+  <a href="https://www.instagram.com/yashovardhantripathi/"><img src="https://img.shields.io/badge/Instagram-Follow-39FF88?style=for-the-badge&amp;labelColor=111B14" alt="Follow on Instagram" /></a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]((https://www.instagram.com/yasho_vardhan_trp2821?stkn=dG1lbzgzcTF1MWFl)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashovardhan-tripathi-05220225a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashovardhan0001@gmail.com) 
+<p align="center">
+  <a href="#about-me">About</a> &nbsp; / &nbsp;
+  <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
+  <a href="#technology-stack">Stack</a> &nbsp; / &nbsp;
+  <a href="#experience">Experience</a> &nbsp; / &nbsp;
+  <a href="#github-activity">Activity</a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yashovardhan-Tripathi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yashovardhan-Tripathi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashovardhan-Tripathi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## About me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yashovardhan-Tripathi&theme=city_lights&no-frame=false&no-bg=true&margin-w=4)
+Turning raw data into meaningful insights and bold ideas into intelligent, practical applications.  
+I bring together data science, AI/ML, and full-stack development to build solutions for real-world problems.  
+Driven by curiosity, I enjoy experimenting, solving challenges, and turning what I learn into software people can use.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Open to internships, full-time roles, and project collaborations** in AI/ML, data science, and software development.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yashovardhan-Tripathi&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
+```text
+$ cat interests.txt
+  Data science & machine learning
+  Computer vision, NLP & LLM applications
+  Full-stack development, MLOps & DevOps
+```
 
----
-[![](https://visitcount.itsvg.in/api?id=Yashovardhan-Tripathi&icon=0&color=0)](https://visitcount.itsvg.in)
+## Selected projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 01 / CrowdShield AI
+
+**Computer vision for crowd awareness.** A YOLO and OpenCV project for people detection, crowd-density estimation, and congestion analysis. Includes overcrowding alerts and alternate-route suggestions to support crowd management at large events.
+
+`Python` `YOLO` `OpenCV` `Computer Vision`
+
+**Recognition:** Consolation Prize, SunHacks 2025.
+
+### 02 / TimeConnector
+
+**A social platform built with Django.** Supports text and image posts, likes, comments, profiles, friend requests, and following. Brings together privacy controls, blocking, staff moderation, authenticated REST APIs, and real-time WebSocket notifications in a responsive interface.
+
+`Python` `Django` `REST APIs` `WebSockets` `Bootstrap`
+
+**Built during:** The Developers Arena internship.
+
+### 03 / Personal Productivity Suite
+
+**Everyday utilities, one Python toolkit.** A command-line application combining a calculator, persistent notes, countdown timer, stopwatch, file organizer, and unit converter. Includes notes search and exports, local backup and restore, and file-organization previews.
+
+`Python` `JSON` `CLI` `File Automation`
+
+**Built during:** The Developers Arena internship.
+
+### 04 / Student Performance Prediction
+
+**From structured data to an interactive ML application.** A regression pipeline for estimating mathematics scores from reading and writing scores and student background features. Combines preprocessing, model comparison, and evaluation with a Flask API and an interactive HTML, CSS, and JavaScript frontend.
+
+`Python` `Scikit-learn` `Ridge Regression` `Flask` `JavaScript`
+
+**Built during:** AI Tech Gen internship.
+
+## Technology stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111B14?style=flat-square&amp;logo=python&amp;logoColor=39FF88" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-111B14?style=flat-square&amp;logo=pytorch&amp;logoColor=39FF88" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/React-111B14?style=flat-square&amp;logo=react&amp;logoColor=39FF88" alt="React" />
+  <img src="https://img.shields.io/badge/Django-111B14?style=flat-square&amp;logo=django&amp;logoColor=39FF88" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-111B14?style=flat-square&amp;logo=nodedotjs&amp;logoColor=39FF88" alt="Node.js" />
+</p>
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python · C++ · SQL · JavaScript · HTML · CSS |
+| **Data & machine learning** | Pandas · NumPy · SciPy · Scikit-learn · XGBoost · PyTorch · TensorFlow |
+| **NLP & generative AI** | NLTK · Hugging Face · LangChain · LLMs |
+| **Computer vision** | OpenCV · YOLO |
+| **Frontend** | React · Tailwind CSS · Bootstrap · Vite |
+| **Backend** | Django · Flask · FastAPI · Node.js · NestJS · REST APIs |
+| **Databases** | MySQL · PostgreSQL · MongoDB |
+| **Visualization & analysis** | Matplotlib · Seaborn · Microsoft Excel |
+| **Engineering focus** | Software development · MLOps · DevOps |
+| **Development tools** | Git · GitHub · Jupyter · Google Colab · VS Code · Cursor · Antigravity |
+
+## Experience
+
+| Organization | Experience |
+| :--- | :--- |
+| **The Skybrisk** | Data Science Intern · **August 2026–present** |
+| **Zidio** | Internship · **September–December 2026** · Ongoing; expected completion in December |
+| **CodSoft** | Data Science Intern · **August 2025** and **August 2026** · Two separate one-month internships |
+| **AI Tech Gen Technologies** | AI/ML Intern |
+| **The Developers Arena** | Python Intern |
+
+## Education & recognition
+
+**B.Tech in Computer Science & Engineering — Artificial Intelligence & Machine Learning**  
+Sandip University · Expected graduation **2027** · **CGPA: 8.49/10**
+
+- **Top 2 at college level · Smart India Hackathon (SIH).**
+- **Top 5 · PVG Hackathon 2025** — Handwriting and Text Detector AI.
+- **Consolation Prize · SunHacks 2025** — CrowdShield AI.
+
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/Yashovardhan-Tripathi?tab=overview"><img src="./assets/github-stats.svg" width="49%" alt="Yashovardhan's public GitHub statistics" /></a>
+  <a href="https://github.com/Yashovardhan-Tripathi?tab=repositories"><img src="./assets/top-languages.svg" width="49%" alt="Language distribution across Yashovardhan's public repositories" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/contribution-activity.svg" width="100%" alt="Yashovardhan's recent GitHub contribution activity" />
+</p>
+
+### One contribution at a time
+
+<p align="center">
+  <img src="./assets/contribution-snake.svg" width="100%" alt="Animated snake following Yashovardhan's GitHub contribution grid" />
+</p>
+
+<p align="center">
+  <b>Have an idea worth building?</b><br />
+  Let's turn it into something useful.<br /><br />
+  <a href="mailto:yashovardhan0001@gmail.com">Start a conversation ↗</a>
+</p>
+
+<!-- Stats: github-readme-stats. Snake: Platane/snk. Activity graph: GitHub contribution calendar. -->
