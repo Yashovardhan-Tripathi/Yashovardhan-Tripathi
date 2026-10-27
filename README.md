@@ -110,18 +110,18 @@ Sandip University · Expected graduation **2027** · **CGPA: 8.49/10**
 ## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/Yashovardhan-Tripathi?tab=overview"><img src="./assets/github-stats.svg" width="49%" alt="Yashovardhan's public GitHub statistics" /></a>
-  <a href="https://github.com/Yashovardhan-Tripathi?tab=repositories"><img src="./assets/top-languages.svg" width="49%" alt="Language distribution across Yashovardhan's public repositories" /></a>
+  <a href="https://github.com/Yashovardhan-Tripathi?tab=overview"><img src="./assets/github-stats.svg?v=20261028" width="49%" alt="Yashovardhan's public GitHub statistics" /></a>
+  <a href="https://github.com/Yashovardhan-Tripathi?tab=repositories"><img src="./assets/top-languages.svg?v=20261028" width="49%" alt="Language distribution across Yashovardhan's public repositories" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/contribution-activity.svg" width="100%" alt="Yashovardhan's recent GitHub contribution activity" />
+  <img src="./assets/contribution-activity.svg?v=20261028" width="100%" alt="Yashovardhan's recent GitHub contribution activity" />
 </p>
 
 ### One contribution at a time
 
 <p align="center">
-  <img src="./assets/contribution-snake.svg" width="100%" alt="Animated snake following Yashovardhan's GitHub contribution grid" />
+  <img src="./assets/contribution-snake.svg?v=20261028" width="100%" alt="Animated snake following Yashovardhan's GitHub contribution grid" />
 </p>
 
 <p align="center">
