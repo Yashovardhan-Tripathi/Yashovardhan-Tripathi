@@ -27,6 +27,8 @@ jobs:
     steps:
       - name: Check out profile repository
         uses: actions/checkout@v6
+        with:
+          ref: main
 
       - name: Generate public GitHub stats
         uses: stats-organization/github-readme-stats-action@v2
