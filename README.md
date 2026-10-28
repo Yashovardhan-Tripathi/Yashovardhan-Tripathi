@@ -110,22 +110,22 @@ Sandip University · Expected graduation **2027** · **CGPA: 8.49/10**
 ## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/Yashovardhan-Tripathi?tab=overview"><img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/github-stats.svg?v=014624af415f9051" width="49%" alt="Yashovardhan's public GitHub statistics" /></a>
+  <a href="https://github.com/Yashovardhan-Tripathi?tab=overview"><img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/github-stats.svg?v=094b2e1d0616ff25" width="49%" alt="Yashovardhan's public GitHub statistics" /></a>
   <a href="https://github.com/Yashovardhan-Tripathi?tab=repositories"><img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/top-languages.svg?v=017ef6fe2dcc8be1" width="49%" alt="Language distribution across Yashovardhan's public repositories" /></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/contribution-streaks.svg?v=2f63a108831459c4" width="100%" alt="Yashovardhan's current and longest GitHub contribution streaks" />
+  <img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/contribution-streaks.svg?v=5b4f2153fed70871" width="100%" alt="Yashovardhan's current and longest GitHub contribution streaks" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/contribution-activity.svg?v=2b3df214ce2d62e0" width="100%" alt="Yashovardhan's recent GitHub contribution activity" />
+  <img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/contribution-activity.svg?v=ef4a1c045ca77912" width="100%" alt="Yashovardhan's recent GitHub contribution activity" />
 </p>
 
 ### One contribution at a time
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/contribution-snake.svg?v=2d45dc0309f6fbbe" width="100%" alt="Animated snake following Yashovardhan's GitHub contribution grid" />
+  <img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/contribution-snake.svg?v=d2fa60452d8072bc" width="100%" alt="Animated snake following Yashovardhan's GitHub contribution grid" />
 </p>
 
 <p align="center">
