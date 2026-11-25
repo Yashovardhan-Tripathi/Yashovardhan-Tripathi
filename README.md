@@ -115,17 +115,17 @@ Sandip University · Expected graduation **2027** · **CGPA: 8.49/10**
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/contribution-streaks.svg?v=be8ed67ad4434235" width="100%" alt="Yashovardhan's current and longest GitHub contribution streaks" />
+  <img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/contribution-streaks.svg?v=90bfa880254aa760" width="100%" alt="Yashovardhan's current and longest GitHub contribution streaks" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/contribution-activity.svg?v=d660a98c209c16cb" width="100%" alt="Yashovardhan's recent GitHub contribution activity" />
+  <img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/contribution-activity.svg?v=9b1fa74a49d82cf5" width="100%" alt="Yashovardhan's recent GitHub contribution activity" />
 </p>
 
 ### One contribution at a time
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/contribution-snake.svg?v=7e7a94966528b298" width="100%" alt="Animated snake following Yashovardhan's GitHub contribution grid" />
+  <img src="https://raw.githubusercontent.com/Yashovardhan-Tripathi/Yashovardhan-Tripathi/main/assets/contribution-snake.svg?v=b3a391d7e2adff7f" width="100%" alt="Animated snake following Yashovardhan's GitHub contribution grid" />
 </p>
 
 <p align="center">
